@@ -1,1 +1,1 @@
-[![Alfalest Header](header.png)]
+![Alfalest Header](header.png)
